@@ -9,7 +9,8 @@ export default function About(){
           backgroundImage: `url('usacover.jfif')`, 
           backgroundSize: 'cover',
           backgroundPosition: 'center',
-          height: '100vh' 
+          height: '100vh', 
+          
         }}
       >
         <h1 className="text-4xl font-bold mb-4">USA Trip</h1>
